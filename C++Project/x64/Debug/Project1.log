@@ -1,0 +1,75 @@
+﻿  Main.cpp
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Player.h(72,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Player.h(72,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Jelly.h(41,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Jelly.h(41,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Nemo.h(43,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Nemo.h(43,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Octapus.h(42,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Octapus.h(42,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Shark.h(41,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Shark.h(41,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Rat.h(42,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Rat.h(42,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\back.h(34,21): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\back.h(36,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\back.h(36,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Life.h(46,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Life.h(46,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Score.h(37,21): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Score.h(38,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Score.h(38,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Hearts.h(37,21): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Hearts.h(38,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Hearts.h(38,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\GameState.h(144,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\Main.cpp(34,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project1.vcxproj -> C:\Users\Giannis\Desktop\cpp_\polymorphism c++\3160130_3170218\3160130_3170218\3160130_3170218\x64\Debug\Project1.exe
